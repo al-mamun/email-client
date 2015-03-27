@@ -15,7 +15,7 @@ Author URI: http://profound-english.com
 
 // some definition we will use
 define( 'EMAILCLIENTWM_PUGIN_NAME', 'Email Client WM');
-define( 'EMAILCLIENTWM_PLUGIN_DIRECTORY', 'emailclientwm');
+define( 'EMAILCLIENTWM_PLUGIN_DIRECTORY', 'email-client');
 define( 'EMAILCLIENTWM_CURRENT_VERSION', '1.0' );
 define( 'EMAILCLIENTWM_CURRENT_BUILD', '3' );
 define( 'EMAILCLIENTWM_LC', 'ca9186101695c5e9922e84745d6ba708' );
