@@ -104,7 +104,7 @@ function add_toolbar_items($admin_bar){
     $admin_bar->add_menu( array(
         'id'    => 'my-item',
         'title' => '<div class="wrapperer"><span class="emo"></span><div class="unread_holder"></div></div>',
-        'href'  => 'admin.php?page=emailclientwm/admin_side/emailclientwm_settings_page.php',		
+        'href'  => 'admin.php?page=email-client/admin_side/emailclientwm_settings_page.php',		
         'meta'  => array(
             'title' => __('My Item'), 
         ),
