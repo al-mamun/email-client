@@ -1,0 +1,26 @@
+.unread {
+    border-radius: 2px!important;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.7)!important;
+    background-color: #dc0d17!important;
+    background-image: linear-gradient(#fa3c45, #dc0d17)!important;
+    color: #fff!important;
+    min-height: 13px!important;
+    padding: 1px 3px!important;
+    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.4)!important;
+   	}
+	.emo {
+    color: #fff;    
+    }
+	.wrapperer div, .wrapperer span {    
+    display:inline;}.wrapperer span { margin-left: 10px!important;}
+	.wrapperer{ position: absolute;
+    margin-left: 400px;
+    top: -26px;z-index: 999999;	
+	}
+	.wrapperer i {
+    font-family: dashicons !important;
+	font-size: 20px !important;
+	}
+.disclaimer{
+	max-width:600px;
+}
