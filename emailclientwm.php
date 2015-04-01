@@ -160,7 +160,7 @@ function emailclientwm_email_unread() {
 		"'. plugins_url( 'admin_side/webmailing/killsession.php', __FILE__ ) .'",
 		{ },
 		function(event) {        
-			window.location.href = "/wp-login.php?loggedout=true";
+			window.location.href = "'.wp_logout_url( $redirect ).'";
 			}    
 	);				
 	})	});
