@@ -82,18 +82,9 @@ Just do a normal upgrade.
 
 == Changelog ==
 
-= 0.1.1.2 (03.03.2011) =
-* adding submenus
+= 2.0 (03.03.2011) =
+* fixes with install folder
 
-= 0.1.1.1 (24.02.2011) =
-* small bugfix
-* testing on Wordpress 3.1
-
-= 0.1.1 (22.02.2011) =
-* logfile handling
-
-= 0.1 (17.02.2011) =
-* first version
 
 == Upgrade Notice ==
 
