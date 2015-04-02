@@ -12,7 +12,9 @@ All your E-mails inside of your WordPress admin site!
 == Description ==
 
 The Email Client WM WordPress plugin allows you to use Webmail Lite email client inside of the admin area.
+
 In order to be able to use this module you need to have hosted email by your hosting company.
+
 If you own a custom domain—like www.mycompany.com for your website, you should be able to use it. 
 
 * Easey setup - Plug and play
@@ -56,8 +58,6 @@ It's best to use the build in delete function of wordpress. That way all the sto
 
 == Frequently Asked Questions ==
 
-soon
-
 = How can I support you? =
 
 Post a comment on [Email Client WM  Plugin Template ](http://profound-english.com)
@@ -65,10 +65,6 @@ Post a comment on [Email Client WM  Plugin Template ](http://profound-english.co
 = What is the plugin page?  =
 
 [Email Client WM  Plugin ](http://profound-english.com)
-
-= Do you have other plugins?  =
-
-Check out my other [Wordpress Plugins](http://wordpress.org/extend/plugins/profile/1manfactory)
 
 = Where do I post my feedback? =
 
