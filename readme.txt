@@ -37,12 +37,10 @@ Considering all the advices given in http://codex.wordpress.org/Writing_a_Plugin
 
 == Installation ==
 
-ONLY USE THIS FOR LOCAL DEVELOPMENT
 1. Upload Email Client WM  Plugin to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
-3. Adjust settings
-4. Map Email Client WM Your Creation page and Email Client WM Account page to you main menu bar.
-5. Your permalinks need to be by Post name.
+3. Click on Email icon in the left sidebar and install WebMail lite.
+4. All set!
 
 == Remove plugin ==
 
