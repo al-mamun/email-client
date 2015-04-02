@@ -82,7 +82,7 @@ Just do a normal upgrade.
 
 == Changelog ==
 
-= 2.0 (03.03.2011) =
+= 2.0 (01.04.2015) =
 * fixes with install folder
 
 
