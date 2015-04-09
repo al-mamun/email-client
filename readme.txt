@@ -4,7 +4,7 @@ Donate link: info@profound-english.com
 Tags: email, email campaign, email marketing, html email, custom email, status email, order email, better email, multiple email, email notifications, email sms, advanced email, email report, email campaing report, improved email, professional email, email status, email schedule, wordpress email, email template, email manager, manage email, new email, more email, email sms campaigning, email notification campaigning, email system, email rules, email scheduling, email form, email code, email review, email history
 Requires at least: 3.8
 Tested up to: 4.1.1
-Stable tag: "2.0"
+Stable tag: "3.0"
 License: GPLv3 or later
 
 All your E-mails inside of your WordPress admin site!
