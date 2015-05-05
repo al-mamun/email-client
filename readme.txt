@@ -83,7 +83,3 @@ Just do a normal upgrade.
 == Upgrade Notice ==
 
 Just do a normal upgrade.
-
-== To do ==
-
-More translations. Does someone wants to help?
