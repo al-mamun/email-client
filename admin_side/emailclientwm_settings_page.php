@@ -1,5 +1,14 @@
 <h2><?php print EMAILCLIENTWM_PUGIN_NAME ." ". EMAILCLIENTWM_CURRENT_VERSION; ?></h2>
  <?php
+ 
+   $whitelist = array(
+    '127.0.0.1',
+    '::1'
+);
+
+if(in_array($_SERVER['REMOTE_ADDR'], $whitelist)){
+    echo '<h2 style="color:red">This might not work properly on localhost!</h2>';
+}
 		settings_fields( 'emailclientwm-settings-group' );		
 		$lc = md5(get_option('emailclientwm_lc')); 
 		if ($lc == EMAILCLIENTWM_LC || strtotime(get_option('emailclientwm_date')) > strtotime('yesterday -3 day')){
