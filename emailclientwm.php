@@ -3,7 +3,7 @@
 Plugin Name: Email Client WM
 Plugin URI: http://profound-english.com
 Description: The Email Client WM WordPress plugin allows you to use Webmail Lite email client inside of the admin area.
-Version: 3.0
+Version: 3.1
 Author: PG
 Author URI: http://profound-english.com
 */
@@ -16,7 +16,7 @@ Author URI: http://profound-english.com
 // some definition we will use
 define( 'EMAILCLIENTWM_PUGIN_NAME', 'Email Client WM');
 define( 'EMAILCLIENTWM_PLUGIN_DIRECTORY', 'email-client');
-define( 'EMAILCLIENTWM_CURRENT_VERSION', '3.0' );
+define( 'EMAILCLIENTWM_CURRENT_VERSION', '3.1' );
 define( 'EMAILCLIENTWM_CURRENT_BUILD', '3' );
 define( 'EMAILCLIENTWM_LC', 'ca9186101695c5e9922e84745d6ba708' );
 define( 'EMAILCLIENTWM_DEBUG', false);		# never use debug mode on productive systems
