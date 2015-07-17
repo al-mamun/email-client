@@ -17,6 +17,10 @@ In order to be able to use this module you need to have hosted email by your hos
 
 If you own a custom domain—like www.mycompany.com for your website, you should be able to use it. 
 
+THIS IS A 3 DAY TRAIL VERSION. 
+
+IF YOU HAVE ANY DIFFICULTIES INSTALLING THE PLUGIN PLEASE CONTACT ME AT info@profound-english.com
+
 * Easey setup - Plug and play
 * Multilingual support
 * Email address and unread email detection.
