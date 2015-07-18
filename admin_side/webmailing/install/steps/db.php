@@ -3,8 +3,19 @@
 // api
 include_once WM_INSTALLER_PATH.'../libraries/afterlogic/api.php';
 // PG ~ check login password to db
-require_once('../../../../../../wp-config.php');
-
+$filename = '../../../../../../wp-config.php';		
+if(file_exists($filename)) { 
+			require_once('../../../../../../wp-config.php');
+		} else {
+			define('DB_NAME', 'db name');
+			/** MySQL database username */
+			define('DB_USER', 'user');
+			/** MySQL database password */
+			define('DB_PASSWORD', '');
+			/** MySQL hostname */
+			define('DB_HOST', 'your host');
+			define('wm_', 'wm_');
+		}
 class CDbStep extends AInstallerStep
 {
 	/**
